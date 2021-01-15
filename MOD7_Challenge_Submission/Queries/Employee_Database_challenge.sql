@@ -1,3 +1,4 @@
+-- Create Retirement Table (Deliverable 1)
 SELECT e.emp_no,
 e.first_name,
 e.last_name,
