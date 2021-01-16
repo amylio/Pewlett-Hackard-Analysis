@@ -37,7 +37,7 @@ The overall results showed:
 
 ## Summary
 
-Based on the results, 72,458 current employees are categorized as "silver tsunami" which represents 30% of their current workforce and an average of 18,000 per year. Majority of the "retirees" hold senior-level positions which will impact Pewlett Hackard significantly, not only in having to go through the recruiting process to fill these positions, but the senior-level knowledge that these retirees will take with them as well. The Development and Production department would be impacted the most with 49% of the retiring employees currently working in these departments. 
+Based on the results, 72,458 current employees are categorized as ***"silver tsunami"*** which represents 30% of their current workforce and an average of 18,000 per year. Majority of the "retirees" hold senior-level positions which will impact Pewlett Hackard significantly, not only in having to go through the recruiting process to fill these positions, but the senior-level knowledge that these retirees will take with them as well. The Development and Production department would be impacted the most with 49% of the retiring employees currently working in these departments. 
 
 **By Title:**
 
